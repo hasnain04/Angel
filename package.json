@@ -1,0 +1,46 @@
+{
+  "name": "angel1951-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@reduxjs/toolkit": "^2.11.2",
+    "@types/react-slick": "^0.23.13",
+    "autoprefixer": "^10.4.27",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "country-list": "^2.4.1",
+    "lucide-react": "^0.576.0",
+    "next": "^16.2.2",
+    "postcss": "^8.5.6",
+    "radix-ui": "^1.4.3",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-hook-form": "^7.71.2",
+    "react-hot-toast": "^2.6.0",
+    "react-redux": "^9.2.0",
+    "react-slick": "^0.31.0",
+    "recharts": "^3.8.1",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^3.4.19",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/country-list": "^2.1.4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "shadcn": "^3.8.5",
+    "typescript": "^5"
+  }
+}
